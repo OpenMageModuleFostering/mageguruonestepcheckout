@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/MageguruOneStepCheckout",
+    "name": "OpenMageModuleFostering\/MageguruOneStepCheckout",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "OneStepCheckout simplifies the checkout process of your  Store.",
     "authors": [
-    {
-        "name": "developer",
-        "email": "mageguruindia@gmail.com"
-    }
-],
+        {
+            "name": "developer",
+            "email": "mageguruindia@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
